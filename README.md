@@ -2,6 +2,7 @@ Restaurant Name Generator with LangChain
 
 
 Overview
+
 The Restaurant Name Generator with LangChain is an innovative and interactive web application that utilizes the power of Large Language Models (LLMs) and LangChain framework to suggest unique and culturally appropriate restaurant names and menus based on different cuisines. This project showcases the potential of LLMs in generating creative and contextually relevant content for real-world applications.
 
 Key Features
@@ -58,11 +59,11 @@ Streamlit: The user-friendly interface is powered by Streamlit, a powerful Pytho
 
 OpenAI: Special thanks to OpenAI for providing access to the LLMs and enabling cutting-edge language generation.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feedback and Support
 We welcome feedback, suggestions, and contributions to enhance the Restaurant Name Generator with LangChain. For any issues or queries, please open an issue on the GitHub repository.
 
 Enjoy exploring unique and culturally fitting restaurant names and menus with the Restaurant Name Generator!
+
+
 
